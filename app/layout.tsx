@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        >
 
 <ul className="flex justify-end space-x-8 p-4 bg-blue-500 text-black-500 max-w-7xl mx-auto p-4 sm:p-6 md:p-8">
             <li >
